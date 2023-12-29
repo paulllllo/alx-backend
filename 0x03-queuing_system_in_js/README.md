@@ -1,3 +1,1 @@
-## Queuing systems in javascript
-
-This project is about queuing in javascript using redis and Kue
+dir created for ALX SE project showing queuing in javascript using redis and Kue
