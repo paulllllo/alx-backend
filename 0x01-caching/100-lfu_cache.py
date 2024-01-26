@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""ALX SE caching module"""
+"""An LFU caching module"""
 BaseCaching = __import__('base_caching').BaseCaching
 
 
